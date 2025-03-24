@@ -19,6 +19,7 @@
   "homepage": "https://github.com/PhamDatRinvjppr0no1/deloy-render#readme",
   "dependencies": {
     "dotenv": "^16.4.7",
-    "epress": "^0.0.1-security"
+    "epress": "^0.0.1-security",
+    "express": "^4.21.2"
   }
 }
